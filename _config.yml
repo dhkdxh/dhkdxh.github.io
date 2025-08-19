@@ -1,6 +1,5 @@
 title: yewon's blog
 description: study and share
-theme: monophase
 plugins:
   - jekyll-remote-theme
 
