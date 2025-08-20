@@ -1,4 +1,6 @@
 title: yewon's blog
+url: "https:dhkdxh.github.io"
+baseurl: ""
 description: study and share
 plugins:
   - jekyll-remote-theme
